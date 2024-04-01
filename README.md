@@ -4,8 +4,10 @@ Module 4 Homework Pandas Challenge
 Analysis:
 
 Overview:
-The analysis looks at 15 schools, who teach a total of 39,170	students on a budget of $24,649,428.00.  The overall passing percentage across the 15 schools was 72.81%.
-
+The analysis looks at 7 government and 8 independent schools. In total these 15 school teach 39,170	students, on a total budget of   
+The largest school has 4976 students, alongside the largest budget of $3,124,928, or $628 per student. 
+The smallest school has just 427 students, and the smallest budget of $248,087, allowing only $581 as the budget per student.
+Regardless of size or budget, the 15 schools achieved a 72.81% overall pass rate. 
 
 Observation 1: 
 The smaller the school, the higher their results for ever measure (average maths score, average reading score, % passing maths, % passing reading and % passing overall)
