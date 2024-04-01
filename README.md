@@ -10,7 +10,8 @@ The smallest school has just 427 students, and the smallest budget of $248,087, 
 Regardless of size or budget, the 15 schools achieved a 72.81% overall pass rate. 
 
 Observation 1: 
-The smaller the school, the higher their results for ever measure (average maths score, average reading score, % passing maths, % passing reading and % passing overall)
+The small schools with less than 1000 students, had the highest percentages of students passing their maths and reading based on evey measure (average maths score, average reading score, % passing maths, % passing reading and % passing overall)
+The next most successful where the medium sized schools with 1000 to 2000 students, who achieved slightly better results than the largest schools who have between 2000 and 5000 students. 
 See the chart for Scores by School Size
 
 Observation 2:
