@@ -4,7 +4,8 @@ Module 4 Homework Pandas Challenge
 Analysis:
 
 Overview:
-The analysis looks at 15 schools, who teach a total of 
+The analysis looks at 15 schools, who teach a total of 39,170	students on a budget of $24,649,428.00.  The overall passing percentage across the 15 schools was 72.81%.
+
 
 Observation 1: 
 The smaller the school, the higher their results for ever measure (average maths score, average reading score, % passing maths, % passing reading and % passing overall)
